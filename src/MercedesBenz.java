@@ -9,22 +9,22 @@ public class MercedesBenz {
         this.year = year;
     }
 
-    // Getter for name
+    // Getter for model
     public String getModel() {
         return model;
     }
 
-    // Setter for name
+    // Setter for model
     public void setModel(String model) {
         this.model = model;
     }
 
-    // Getter for age
+    // Getter for year
     public int getYear() {
         return year;
     }
 
-    // Setter for age
+    // Setter for year
     public void setYear(int year) {
         this.year = year;
     }

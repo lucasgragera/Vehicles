@@ -4,26 +4,28 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="aea50103-277e-4a22-8185-b0bb6582b23e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Audi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Bmw.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Citroen.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Fiat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ford.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Honda.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MercedesBenz.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Porsche.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Toyota.java" afterDir="false" />
+    <list default="true" id="aea50103-277e-4a22-8185-b0bb6582b23e" name="Changes" comment="First Vehicles">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Audi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Audi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Bmw.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bmw.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Citroen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Citroen.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Fiat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Fiat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ford.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ford.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Honda.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Honda.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MercedesBenz.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MercedesBenz.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Porsche.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Porsche.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Toyota.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Toyota.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager">
+    <option name="groupingKeys">
+      <option value="directory" />
+    </option>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -79,6 +81,27 @@
       <option name="presentableId" value="Default" />
       <updated>1698523787201</updated>
     </task>
+    <task id="LOCAL-00001" summary="First Vehicles">
+      <option name="closed" value="true" />
+      <created>1698529766045</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1698529766045</updated>
+    </task>
+    <task id="LOCAL-00002" summary="First Vehicles">
+      <option name="closed" value="true" />
+      <created>1698530713794</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1698530713794</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="First Vehicles" />
+    <option name="LAST_COMMIT_MESSAGE" value="First Vehicles" />
   </component>
 </project>
